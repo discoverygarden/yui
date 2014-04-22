@@ -1,4 +1,5 @@
 name = YUI Library
 description = Provides the Yahoo YUI plug-in to other Drupal modules.
-package = User interface
+package = Islandora Tools
+configure = admin/islandora/tools/yui
 core = 7.x

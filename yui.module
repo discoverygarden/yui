@@ -14,7 +14,7 @@ define('YUI_DEBUG_COMPRESSION', 'debug');
  */
 function yui_menu() {
   return array(
-    'admin/islandora/yui' => array(
+    'admin/islandora/tools/yui' => array(
       'title' => 'Yahoo YUI Settings',
       'description' => 'Yahoo YUI Settings.',
       'file' => 'includes/admin.form.inc',
