@@ -39,7 +39,7 @@ Unzip the downloaded file in sites/all/libraries.
 CONFIGURATION
 -------------
 
-At admin/islandora/yui you will find a form for selecting the version of YUI to
+At admin/islandora/tools/yui you will find a form for selecting the version of YUI to
 use.
 
 * Production (Minified)
